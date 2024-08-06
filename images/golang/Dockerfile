@@ -1,2 +1,2 @@
-FROM golang:1.13
+FROM cgr.dev/chainguard/go:latest
 ENV CGO_ENABLED=0
